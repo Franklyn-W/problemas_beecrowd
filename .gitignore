@@ -1,2 +1,15 @@
-.settings/org.eclipse.jdt.core.prefs
-.settings/org.eclipse.core.resources.prefs
+out
+.classpath
+.project
+.settings
+.metadata
+*.log
+*.zip
+*.class
+*.swp
+target
+classes
+build
+bin
+classes
+*~
